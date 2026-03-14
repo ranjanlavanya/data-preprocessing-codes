@@ -4,7 +4,7 @@ Created on Tue Oct 29 14:39:35 2024
 
 @author: Lavanya Ranjan
 """
-# created to convert mp4 vids to mts for ethovision analysis
+# converts all videos with (.mp4) extension in a folder to (.mts) extension for ethovision analysis.
 
 import os
 import subprocess
