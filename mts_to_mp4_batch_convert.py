@@ -4,7 +4,7 @@ Created on Tue Oct 29 14:39:35 2024
 
 @author: Lavanya Ranjan
 """
-# converts videos with (.mts) extension to (.mp4) extension for DLC analysis.
+# converts all videos with (.mts) extension in a folder to (.mp4) extension for DLC analysis.
 
 import os
 import subprocess
